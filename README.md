@@ -1,4 +1,4 @@
 # react-axios-api
 
-### npm start
+### npm run start / npm start
 To start the application.
